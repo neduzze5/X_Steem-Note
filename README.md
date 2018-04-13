@@ -6,10 +6,10 @@ X_Steem Note is a desktop offline application that allows you to write to, save 
 ## Install
 
 ### Requirements
-Windows	OS 7,8,10
-Java Runtime Environment:	http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-GEt source, Clone the git Repository: https://github.com/neduzze5/X_Steem-Note
-Download the jar file: https://github.com/neduzze5/X_Steem-Note/blob/master/dist/X-Steem_Note.jar
+Windows	OS 7, 8, 10
+- Java Runtime Environment:	http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+- GEt source, Clone the git Repository: https://github.com/neduzze5/X_Steem-Note
+- Download the jar file: https://github.com/neduzze5/X_Steem-Note/blob/master/dist/X-Steem_Note.jar
 
 Simply run the jar file and begin typing and saving in your notes.
 
