@@ -1,0 +1,31 @@
+X_Steem Note is a desktop offline application that allows you to write to, save and open files of different formats such as txt, rtf, doc, html and many other formats. 
+Unlike most notepad apps currently in the market,
+X_Steem Note has been designed to be colorful and beautiful.
+
+### Installation Requirements
+
+Windows	OS 7, 8, 10.
+
+* Java Runtime Environment:	http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+* GEt source, Clone the git Repository: https://github.com/neduzze5/X_Steem-Note
+* Download the jar file: https://github.com/neduzze5/X_Steem-Note/blob/master/dist/X-Steem_Note.jar
+
+Simply run the jar file and begin typing and saving in your notes.
+
+### How to use the application
+
+* Open the X-Steem-Notes application
+Click on the **New Note** Button or the **Begin icon** at the middle of the application
+![5a](https://user-images.githubusercontent.com/35721447/38874483-1640f8ac-4250-11e8-8f9a-ddbbfd79a261.png)
+
+* Type in the notes you want to save, or paste using the shortcut **Ctrl+V** or click the Edit Icon at the top and select paste, once done you can save your note by clicking on the save icon below the page of the application.
+![5b](https://user-images.githubusercontent.com/35721447/38874871-0dbbc274-4251-11e8-9243-e20e52446730.png)
+Then you can input the title for your new note and select a directory on your PC to save.
+
+![5d](https://user-images.githubusercontent.com/35721447/38875430-42798ea0-4252-11e8-887c-7dd901837c1a.png)
+
+
+* The file button at the top gives you access to begin a new note or load your previously saved noted.
+![5c](https://user-images.githubusercontent.com/35721447/38875306-fbf77ff0-4251-11e8-96b2-15a801892b5d.png)
+
+* The Edit Button can be used for three actions , **Copy**, **Cut** and **Paste**.
